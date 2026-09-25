@@ -10,4 +10,4 @@ marp: true
 3. Warum sind lange, einzigartige und zufällig erzeugte Passwörter schwer selbst zu verwalten?
 4. Welche Vorteile kann ein Passwortmanager bieten?
 5. Welche Risiken oder Nachteile bleiben trotz Passwortmanager bestehen?
-6. Was ist zusätzlich zur Passwortverwaltung wichtig, zum Beispiel bei Zwei-Faktor-Authentifizierung oder Phishing?
+6. Was ist zusätzlich zur Passwortverwaltung wichtig, zum Beispiel bei Zwei-Faktor-Authentifizierung oder Phishing? 
