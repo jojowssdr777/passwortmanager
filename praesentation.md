@@ -345,7 +345,8 @@ style: |
 
 
 
-#  Einstieg: Warum ist überhaupt ein Passwortmanager wichtig.
+#  Einstieg: Warum ist überhaupt ein Passwortmanager wichtig. 
+diese presentation ist erstellt von Johannes 
 
 
 
