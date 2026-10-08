@@ -11,4 +11,7 @@
 
 1. erste fragen recherchiert
 
-1. 
+1. erste fragen beantfortet 
+
+1. Google gefragt was eine ist Zwei-Faktor-Authentifizierung
+ leider habe ich es noch nicht verstanden
