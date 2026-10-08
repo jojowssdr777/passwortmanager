@@ -343,14 +343,13 @@ style: |
 
 ---
 
-<div class="titel">
 
-#  Einstieg: Warum überhaupt ein Passwortmanager?
 
-</div>
+#  Einstieg: Warum ist überhaupt ein Passwortmanager wichtig.
+
+
 
 ---
-
 1. Warum ist es unsicher, dasselbe Passwort bei mehreren Diensten zu verwenden?
   
    - Da Häcker wenn sie das eine Passwort heraus gefunden haben sie es auch bei anderen Webseiten versuchen ein zu loggen um Daten oder Geld zu stehlen
@@ -360,10 +359,27 @@ style: |
    - bei einem Datenleck kann passiren das vertrauliche oder personenbezogene Daten unbefugt an die Öffentlichkeit oder in die Hände von Kriminellen.
 ---
 3. Warum sind lange, einzigartige und zufällig erzeugte Passwörter schwer selbst zu verwalten?
-   - Weil man 
+   - Weil man nicht alle Paswörter im kopf behalten kan.
 ---
-4. Welche Vorteile kann ein Passwortmanager bieten?
+4. welche vorteile bitet ein passwortmanager
+
+   - ein passwort maneger kann einem die vorteile verleien sich nur ein Passwort merken zu müssen und man dann alle log-in codes hat. 
 ---
 5. Welche Risiken oder Nachteile bleiben trotz Passwortmanager bestehen?
+
+   - ein großes risiko ist es dich bei deinen Passwort-Manager auf einem ungesperrten Gerät nicht zu schließen, weil dan jeder, der physischen Zugriff auf das Gerät hat, alle deine Passwörter einsehen kann.
 ---
 6. Was ist zusätzlich zur Passwortverwaltung wichtig, zum Beispiel bei Zwei-Faktor-Authentifizierung oder Phishing? 
+
+---
+was gibt es überhaupt für passwortmanager
+  
+   - Bitwarden	               Open-Source & hervorragende Gratis-Version	                       Cloud (oder lokal self-hosted)	Kostenlos / Premium sehr günstig
+
+   -  1Password	                        Beste Bedienung & Familien-Funktionen	  Cloud	                                Nur kostenpflichtiges Abo
+   
+   - NordPass	Hohe Benutzerfreundlichkeit & EU-Server	Cloud	Kostenlos / Premium-Abo
+
+   - Keeper	Maximale Sicherheit & starke Zusatzfeatures	Cloud	Kostenpflichtig (Testversion)
+
+   - KeePassXC	Absolute Datensparsamkeit & Offline-Betrieb	Rein lokal auf dem Gerät	Komplett kostenlos (Open-Source)
