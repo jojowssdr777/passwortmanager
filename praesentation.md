@@ -346,21 +346,107 @@ style: |
 
 
 #  Einstieg: Warum ist überhaupt ein Passwortmanager wichtig. 
-diese presentation ist erstellt von Johannes 
+ <div class="fusszeile">
+  Passwortmanager · von Johannes, 9D
+</div>
 
 
 
 ---
-1. Warum ist es unsicher, dasselbe Passwort bei mehreren Diensten zu verwenden?
+1. <div class="titel">
+
+# Warum ist es unsicher, dasselbe Passwort bei mehreren Diensten zu verwenden?
+
+</div>
+
+<div class="grid-2">
+  <div class="spalte">
+
   
-   - Da Häcker wenn sie das eine Passwort heraus gefunden haben sie es auch bei anderen Webseiten versuchen ein zu loggen um Daten oder Geld zu stehlen
----
-2. Was kann bei einem Datenleck passieren? Hier könnt ihr auf haveibeenpwned.com recherchieren, ob euer Passwort oder eure  E-Mail-Adresse schon einmal in einem Datenleck aufgetaucht ist.
 
-   - bei einem Datenleck kann passiren das vertrauliche oder personenbezogene Daten unbefugt an die Öffentlichkeit oder in die Hände von Kriminellen.
+  - Da Häcker wenn sie das eine Passwort heraus gefunden haben sie es auch bei anderen Webseiten versuchen ein zu loggen um Daten oder Geld zu stehlen
+
+
+  </div>
+  <div class="spalte">
+
+  **Quellcode**
+
+  - Hier könnt ihr auf haveibeenpwned.com recherchieren
+  - Ob ihr schon mal gehackt wurdet
+
+  </div>
+</div>
+
+<div class="fusszeile">
+   Johannes, 9D
+</div>
+
+
 ---
-3. Warum sind lange, einzigartige und zufällig erzeugte Passwörter schwer selbst zu verwalten?
-   - Weil man nicht alle Paswörter im kopf behalten kan.
+2. <div class="titel">
+
+# Was kann bei einem Datenleck passieren?
+
+</div>
+
+<div class="merksatz">
+  Bei einem Datenleck kann passiren das vertrauliche oder personenbezogene Daten unbefugt
+</div>
+
+<div class="box">
+
+- an die Öffentlichkeit
+- in die Hände von Cyberkriminellen kommen kann
+
+</div>
+
+<div class="fusszeile">
+  johannes, 9D
+</div> 
+
+---
+3. <div class="titel">
+
+# Titel deiner Präsentation
+
+</div>
+
+<div class="liste">
+
+- Heutige Bedeutung: Warum ist das Thema gerade jetzt wichtig?
+- Leitfrage und Ziel: Was möchte ich zeigen oder klären?
+- Name
+- Klasse
+- Datum
+
+</div>
+
+<div class="fusszeile">
+  Titel · Name, Klasse
+</div>
+
+---
+
+<div class="titel">
+
+# Warum sind lange, einzigartige und zufällig erzeugte Passwörter schwer selbst zu verwalten?
+
+</div>
+
+<div class="liste">
+
+- Weil man nicht alle Paswörter im kopf behalten kan.
+- Wenn ich mir passwörter Uber meine email schicke und vergesse die webseiten dazu zu schreiben 
+- Dritter Stichpunkt
+
+</div>
+
+<div class="fusszeile">
+   Johannes, 9D
+</div>
+
+   
 ---
 4. welche vorteile bitet ein passwortmanager
 
@@ -373,7 +459,7 @@ diese presentation ist erstellt von Johannes
 6. Was ist zusätzlich zur Passwortverwaltung wichtig, zum Beispiel bei Zwei-Faktor-Authentifizierung oder Phishing? 
 
 ---
-was gibt es überhaupt für passwortmanager
+7. Was gibt es überhaupt für passwortmanager
   
    - Bitwarden	               Open-Source & hervorragende Gratis-Version	                       Cloud (oder lokal self-hosted)	Kostenlos / Premium sehr günstig
 
