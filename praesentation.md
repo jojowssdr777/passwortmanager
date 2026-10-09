@@ -350,7 +350,27 @@ style: |
   Passwortmanager · von Johannes, 9D
 </div>
 
+---
 
+<div class="titel">
+
+# Einstieg: Warum ist überhaupt ein Passwortmanager wichtig.
+
+</div>
+
+<div class="liste">
+
+- Heutige Bedeutung: Warum ist das Thema gerade jetzt wichtig?
+- Leitfrage und Ziel: Was möchte ich zeigen oder klären?
+- Johannes
+- 9D
+- 9.10.26
+
+</div>
+
+<div class="fusszeile">
+  Titel · Name, Klasse
+</div>
 
 ---
 1. <div class="titel">
@@ -406,27 +426,7 @@ style: |
 </div> 
 
 ---
-3. <div class="titel">
-
-# Titel deiner Präsentation
-
-</div>
-
-<div class="liste">
-
-- Heutige Bedeutung: Warum ist das Thema gerade jetzt wichtig?
-- Leitfrage und Ziel: Was möchte ich zeigen oder klären?
-- Name
-- Klasse
-- Datum
-
-</div>
-
-<div class="fusszeile">
-  Titel · Name, Klasse
-</div>
-
----
+3.
 
 <div class="titel">
 
@@ -461,12 +461,26 @@ style: |
 ---
 7. Was gibt es überhaupt für passwortmanager
   
-   - Bitwarden	               Open-Source & hervorragende Gratis-Version	                       Cloud (oder lokal self-hosted)	Kostenlos / Premium sehr günstig
-
-   -  1Password	                        Beste Bedienung & Familien-Funktionen	  Cloud	                                Nur kostenpflichtiges Abo
    
-   - NordPass	Hohe Benutzerfreundlichkeit & EU-Server	Cloud	Kostenlos / Premium-Abo
+---
 
-   - Keeper	Maximale Sicherheit & starke Zusatzfeatures	Cloud	Kostenpflichtig (Testversion)
+8. <div class="titel">
 
-   - KeePassXC	Absolute Datensparsamkeit & Offline-Betrieb	Rein lokal auf dem Gerät	Komplett kostenlos (Open-Source)
+# Quellen
+
+</div>
+
+<div class="liste">
+
+- [Titel der Quelle](https://beispiel.de), abgerufen am TT.MM.JJ
+- [Titel der zweiten Quelle](https://beispiel.de), vom TT.MM.JJ
+- [Titel der Quelle](https://beispiel.de), abgerufen am TT.MM.JJ
+- [Titel der zweiten Quelle](https://beispiel.de), vom TT.MM.JJ
+
+</div>
+
+<div class="fusszeile">
+  Quellen · Name, Klasse
+</div>
+
+ 
