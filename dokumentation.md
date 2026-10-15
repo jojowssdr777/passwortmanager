@@ -23,3 +23,9 @@
 1. ich habe heute die folien angefangen zu geschtallten und aus zu arbeiten
 
 1. ebenso habe ich heute verstanden wie ich sachen aus der forlage in meine presentation übertrage
+
+---
+
+15.10
+
+- folien angefangen auszuarbeiten

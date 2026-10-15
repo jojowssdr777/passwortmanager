@@ -360,8 +360,8 @@ style: |
 
 <div class="liste">
 
-- Heutige Bedeutung: Warum ist das Thema gerade jetzt wichtig?
-- Leitfrage und Ziel: Was möchte ich zeigen oder klären?
+- Für mich ist ein passwort manager wichtig damit ich wenn ich mir längere gennerirte passwörter merken kann
+- warum ist ein Passwortmanager überhaupt wichtig?
 - Johannes
 - 9D
 - 9.10.26
@@ -369,7 +369,7 @@ style: |
 </div>
 
 <div class="fusszeile">
-  Titel · Name, Klasse
+  Einstieg warum ist überhaupt ein passwortmanager wichtig · Johannes, 8D
 </div>
 
 ---
@@ -384,8 +384,7 @@ style: |
 
   
 
-  - Da Häcker wenn sie das eine Passwort heraus gefunden haben sie es auch bei anderen Webseiten versuchen ein zu loggen um Daten oder Geld zu stehlen
-
+  - wenn mein Passwot von Häckern 
 
   </div>
   <div class="spalte">
