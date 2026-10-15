@@ -435,9 +435,9 @@ style: |
 
 <div class="liste">
 
-- Weil man nicht alle Paswörter im kopf behalten kan.
-- Wenn ich mir passwörter Uber meine email schicke und vergesse die webseiten dazu zu schreiben 
-- Dritter Stichpunkt
+- Weil ich nicht alle Paswörter im kopf behalten kan.
+- Wenn ich mir passwörter über meine email schicke und vergesse die webseiten dazu zu schreiben 
+
 
 </div>
 
