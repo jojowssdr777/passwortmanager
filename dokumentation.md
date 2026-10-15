@@ -28,4 +28,4 @@
 
 15.10
 
-- folien angefangen auszuarbeiten
+- folien angefangen richtig auszuarbeiten
