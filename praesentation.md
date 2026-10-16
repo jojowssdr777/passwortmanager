@@ -376,7 +376,7 @@ style: |
 
   
 
-  - wenn mein Passwot von Häckern 
+  - wenn mein Passwot von Hackern 
 
   </div>
   <div class="spalte">
@@ -526,7 +526,7 @@ style: |
 
 8. <div class="titel">
 
-# Quellen
+# Fazit
 
 </div>
 

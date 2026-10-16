@@ -36,3 +36,5 @@
 
 - weitergemacht mit den folien ausarbeiten
 
+
+- fast fertig 
