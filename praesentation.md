@@ -341,14 +341,6 @@ style: |
   Quellen · Name, Klasse
 </div>
 
----
-
-
-
-#  Einstieg: Warum ist überhaupt ein Passwortmanager wichtig. 
- <div class="fusszeile">
-  Passwortmanager · von Johannes, 9D
-</div>
 
 ---
 
@@ -447,9 +439,36 @@ style: |
 
    
 ---
-4. welche vorteile bitet ein passwortmanager
+4. 
 
-   - ein passwort maneger kann einem die vorteile verleien sich nur ein Passwort merken zu müssen und man dann alle log-in codes hat. 
+<div class="titel">
+
+# 
+</div>
+
+<div class="grid-2" style="grid-template-columns: 2fr 1fr; align-items: center;">
+  <div class="spalte">
+
+  - Erklärung, Aufzählung oder Fließtext
+  - Der Text bekommt zwei Teile der Breite
+
+  </div>
+  <div class="spalte">
+
+  **Kurzfassung**
+
+  - Ein Satz
+
+  </div>
+</div>
+
+<div class="fusszeile">
+  Detail und Überblick · Name, Klasse
+</div>
+
+ welche vorteile bitet ein passwortmanager
+
+   - ein passwort manager kann einem die vorteile verleien sich nur ein Passwort merken zu müssen und man dann alle log-in codes hat. 
 ---
 5. Welche Risiken oder Nachteile bleiben trotz Passwortmanager bestehen?
 
@@ -458,8 +477,50 @@ style: |
 6. Was ist zusätzlich zur Passwortverwaltung wichtig, zum Beispiel bei Zwei-Faktor-Authentifizierung oder Phishing? 
 
 ---
-7. Was gibt es überhaupt für passwortmanager
+7. 
+
+<div class="titel">
+
+# Was gibt es überhaupt für passwortmanager
   
+
+</div>
+
+<div class="karten">
+  <div class="karte">
+
+  **Dienst A**
+
+  - Kostenmodell: …
+  - Quellcode: …
+  - Unterschied: …
+
+  </div>
+  <div class="karte">
+
+  **Dienst B**
+
+  - Kostenmodell: …
+  - Quellcode: …
+  - Unterschied: …
+
+  </div>
+  <div class="karte">
+
+  **Dienst C**
+
+  - Kostenmodell: …
+  - Quellcode: …
+  - Unterschied: …
+
+  </div>
+</div>
+
+<div class="fusszeile">
+  Überblick · Name, Klasse
+</div>
+
+
    
 ---
 
