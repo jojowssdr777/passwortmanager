@@ -541,6 +541,6 @@ style: |
 
 <div class="fusszeile">
   Quellen · Name, Klasse
-</div> 
+</div>  
 
  
