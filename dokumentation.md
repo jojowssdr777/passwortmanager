@@ -29,3 +29,10 @@
 15.10
 
 - folien angefangen richtig auszuarbeiten
+
+---
+
+16.10.26
+
+- weitergemacht mit den folien ausarbeiten
+
