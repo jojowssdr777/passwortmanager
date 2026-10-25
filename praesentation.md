@@ -140,7 +140,6 @@ style: |
   }
 ---
 
-<div class="titel">
 
 # Titel deiner Präsentation
 
@@ -149,7 +148,8 @@ style: |
 <div class="liste">
 
 - Heutige Bedeutung: Warum ist das Thema gerade jetzt wichtig?
-- Leitfrage und Ziel: Was möchte ich zeigen oder klären?
+- Leitfrag
+<div class="titel">e und Ziel: Was möchte ich zeigen oder klären?
 - Name
 - Klasse
 - Datum
@@ -240,9 +240,6 @@ style: |
 </div>
 
 ---
-
-<div class="titel">
-
 # Drei Dienste im Überblick
 
 </div>
@@ -281,6 +278,28 @@ style: |
   Überblick · Name, Klasse
 </div>
 
+---
+
+<div class="titel">
+
+# Merksatz oder Kasten
+
+</div>
+
+<div class="merksatz">
+  Ein Satz, den das Publikum behalten soll.
+</div>
+
+<div class="box">
+
+- Ein Punkt
+- Ein weiterer Punkt
+
+</div>
+
+<div class="fusszeile">
+  Merksatz · Name, Klasse
+</div>
 ---
 
 <div class="titel">
