@@ -27,7 +27,7 @@ style: |
     --blau:      #028ad8;   /* Titel, Balken, Linien */
     --blau-hell: #e7e9e5;   /* Akzente, Rand der Karten */
     --flaeche:   #dad9df;   /* Hintergründe von Kästen */
-    --flaeche-2: #4d4949;   /* zweiter Hintergrundton */
+    --flaeche-2: #dad9df;   /* zweiter Hintergrundton */
     --flaeche-3: #dad9df;   /* dritter Hintergrundton */
     --flaeche-4: #ecf2f5;   /* Karten */
     --gelb:      #19fa04;   /* Hervorhebung */
@@ -42,6 +42,7 @@ style: |
     min-height: 100%;
     padding: 40px;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
   }
 
   /* --- Der Folientitel ------------------------------------------- */
@@ -54,7 +55,7 @@ style: |
 
   /* --- Eine einfache Liste --------------------------------------- */
   .liste {
-    width: 80%;
+    width: 90%;
     padding: 18px 24px;
     background: var(--flaeche);
     border-left: 6px solid var(--blau);
@@ -119,6 +120,7 @@ style: |
     background: var(--flaeche-4);
     border-top: 5px solid var(--blau-hell);
     text-align: left;
+    font-size: 20px;
   }
 
   /* --- Bilder ---------------------------------------------------- */
@@ -144,28 +146,33 @@ style: |
     font-size: 0.6em;
   }
 ---
+<div class="titel">
 
 # Passwortmanager
 
 </div>
 
-<div class="liste">
+<div class="merksatz">
 
-- Leitfrage:
-
+# Leitfrage:
 Welchem Passwortmanager vertraue ich eigentlich täglich meine wichtigen Passwörter an?
 Microsoft Edge Passwortmanager / Samsung Pass / Google Passwortmanager
+</div>
 
-<div class="titel">
-Was möchte ich zeigen oder klären? 
+<div class="box">
+
+- Was möchte ich zeigen oder klären? 
 
 was ist für mich der beste Passwortmanager
+
 
 </div>
 
 <div class="fusszeile">
-· johannes.vervoort, 9d
+  · johannes.vervoort, 9d
 </div>
+
+
 
 ---
 
@@ -174,12 +181,13 @@ was ist für mich der beste Passwortmanager
 # Wozu benötige ich einen Passwortmanager
 </div>
 <div class="liste">
- 1. Was ist ein Passwortmanager?
+
+1. **Was ist ein Passwortmanager?**
 Der Passwortmanager ist ein Programm, das Zugangsdaten verschlüsselt an einem sichereren Ort abspeichert.  Viele dieser Programme bieten auch die Möglichkeit, Passwörter automatisch zu erstellen. Dies soll die Sicherheit erhöhen.
 
-2.Welche Probleme löst ein Passwortmanager?
+2. **Welche Probleme löst ein Passwortmanager?**
 Für jedes Konto im Internet sollte man ein anderes Passwort verwenden. Da ich mir aber nicht viele Passwörter merken kann, übernimmt der Passwortmanager diese Aufgabe. Ich brauche dann nur noch ein Masterpasswort für den Passwortmanager.
-3.Warum brauche ich überhaupt ein sicheres Passwort?
+3. **Warum brauche ich überhaupt ein sicheres Passwort?**
 Ein sicheres Passwort schützt meine Daten vor Angriffen von Hackern oder anderen unbefugten Zugriffen. Wenn ich für viele verschiedene Onlinekonten dasselbe Passwort benutze, werden bei einem Passwortdiebstahl direkt viele meiner Konten im Internet bedroht.
 
 
@@ -194,11 +202,11 @@ Ein sicheres Passwort schützt meine Daten vor Angriffen von Hackern oder andere
 
 <div class="liste">
 
-1. Wo finde ich den Passwortmanager?
+1. **Wo finde ich den Passwortmanager?**
 - Mir ist wichtig zu erfahren, ob es mir leicht gemacht wird, meine wichtigen Daten gut zu schützen. Wenn das schon zu kompliziert ist, möchte ich lieber einen einfacheren Manager haben.
-1.  Welchen Funktionsumfang hat der Passwortmanager?
+1.  **Welchen Funktionsumfang hat der Passwortmanager?**
 - Ich frage mich, wie gut meine Daten geschützt werden und welche Möglichkeiten mir für den Zugriff geboten werden.
-1. Wie viel kostet der Passwortmanager?
+1. **Wie viel kostet der Passwortmanager?**
 - Ist der Schutz meiner Passwörter kostenlos, oder verlangen die Anbieter für diesen Schutz Geld? Und wenn ja, wie viel?
 
 </div>
@@ -228,11 +236,13 @@ Samsung Pass ist ein Passwortmanager von Samsung Electronics. Er wurde speziell 
   </div>
   <div class="karte">
 
- ###### Google Passwortmanager
+ **Google Passwortmanager**
 
 Der Google Passwortmanager ist von Google. Er ist in Google Chrome und Android integriert und kann gespeicherte Passwörter über das Google-Konto zwischen unterstützten Geräten synchronisieren – z.B. kann er ein Passwort auch auf mehreren Geräten abgleichen.
   
-  </div>
+  
+
+</div>
 
 
 
@@ -240,50 +250,119 @@ Der Google Passwortmanager ist von Google. Er ist in Google Chrome und Android i
 
 ---
 
-# Drei Dienste im Überblick
+# Meine Passwortmanager im Vergleich
+
+<div class="karten">
+  <div class="karte">
+
+  **Wo finde ich den Manager?**
+  **Microsoft Edge Passwortmanager:** Direkt im Browser Microsoft Edge
+  **Sammsung Pass:** Auf unterstützten Samsunggeräten
+  **Google passwortmanager:** Direkt im Browser Google-Chrome und in Android
+
+  </div>
+  <div class="karte">
+
+  **Welchen Funktionsumfang hat der Passwortmanager?** 
+  **Microsoft Edge Passwortmanager:** Speichert Passwörter und füllt Anmeldedaten automatisch aus. Unterstütz auch Passkeys: Gesicht, Fingerabdruck oder 
+  Pin* 2FA-fähig
+  **Sammsung Pass:** Biometrischer Authentifizierungsdienst Anmeldung per Fingerabdruck, Pin, Iris-Erkennung, Gesichtserkennung, Muster und Passwort* 2FA-fähig
+  **Google passwortmanager:** Speichert Passwörter und füllt sie automatisch aus* 2FA-fähig
+
+
+ </div>
+ <div class="karte">
+
+  **Wie viel kostet der Passwortmanager?** 
+  **Microsoft Edge Passwortmanager:** Kostenlos nutzbar
+  **Sammsung Pass:** Kostenlos nutzbar
+  **Google passwortmanager:** Kostenlos nutzbar
+
+</div>  
+
+</div>
+
+<div class="fusszeile">
+ *Funktionsumfang abhängig von Gerät und Plattform
+</div>
+
+
+---
+<div class="titel">
+
+# Allgemeine Informationen über Samsung Pass 
+
+</div>
+
+<div class="liste">
+
+1. **Wo finde ich Samsung Pass?**
+•	Samsung Pass ist auf unterstützten Samsung-Galaxy-Geräten verfügbar.
+•	Auf neueren Geräten ist Samsung Pass in die App Samsung Wallet integriert.
+2. **Welche Funktionen bietet Samsung Pass?**
+•	Speichert Benutzernamen und Passwörter.
+•	Fügt gespeicherte Anmeldedaten automatisch ein.
+•	Ermöglicht die Anmeldung per Fingerabdruck oder 
+3. **Wie viel kostet Samsung Pass?**
+•	Samsung Pass ist kostenlos nutzbar.
+•	Für die Passwortverwaltung ist kein zusätzliches kostenpflichtiges Abonnement erforderlich.
+
+</div>
+
+
+---
+# Wie schützt Samsung Pass meine Passwörter?
 
 </div>
 
 <div class="karten">
   <div class="karte">
 
-  **Wo finde ich den Manager?**
+  **Anmeldung mit Fingerabdruck**
 
-  **Microsoft Edge Passwortmanager:** Direkt im Browser Microsoft Edge
-  **Sammsung Pass:** Auf unterstützten Samsunggeräten
-  **Google passwortmanager:** Direkt im Browser Google-Chrome und in Android 
-  </div>
-  <div class="karte">
- 
- 
- **Welchen Funktionsumfang hat der Passwortmanager?**
+  -  Statt ein Passwort einzutippen, kann ich mich auf unterstützten Geräten mit meinem Fingerabdruck anmelden.
+  So muss ich meine gespeicherten Zugangsdaten nicht jedes Mal selbst eingeben.
 
-**Microsoft Edge Passwortmanager:**
-  **Sammsung Pass:**
-  **Google passwortmanager:**
 
   </div>
   <div class="karte">
 
-  **Wie viel kostet der Passwortmanager?** 
+  **Zwei-Faktor-Authentifizierung: 2FA**
 
-  **Microsoft Edge Passwortmanager:** Kostenlos nutzbar
-  **Sammsung Pass:** Kostenlos nutzbar
-  **Google passwortmanager:** Kostenlos nutzbar
+  -  Das Samsung-Konto kann mit einer zusätzlichen Sicherheitsabfrage geschützt werden.
+  neben dem Passwort wird dann eine zweite Bestätigung benötigt, beispielsweise über das Smartphone.
+
   </div>
+  <div class="karte">
+
+  **Samsung Pass als 2FA-Hilfe**
+
+  - Samsung Pass kann zusätzliche Sicherheitscodes für bestimmte Websites und Apps erzeugen.
+Diese Codes ändern sich regelmäßig und dienen als weiterer Schutz bei der Anmeldung.
+Wichtig zu wissen: Ein Fingerabdruck allein ist noch keine Zwei-Faktor-Authentifizierung.
+
+
+
+ 
+
+---
+
+<div class="titel">
+
+# Mein Fazit
+
+</div>
+Ich habe mich dafür entschieden, den Samsung Pass genauer zu untersuchen, weil ich von den drei genannten Passwortmanagern diesen am häufigsten verwende, weil ich mein Smartphone öfters nutze als meinen PC. Darum war mir wichtig, herauszufinden, wie gut Samsung Pass meine Passwörter schützt.
+
+<div class="bild">
+
+![alt text](grafik.png)
+
+</div>
+<div class="merksatz">
+Ich finde, dass Samsung Pass ein guter Passwortmanager ist, der meine Passwörter für mich sicher speichert und mir die Bedienung sehr leicht macht.
 </div>
 
-
-
 ---
 
-
-
-
----
-
-
-
----
-
- 
+# Danke das ich Ihre Zeit in Anspruch nehmen durfte.
