@@ -42,7 +42,7 @@ style: |
     min-height: 100%;
     padding: 40px;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 24px;
+    font-size: 23px;
   }
 
   /* --- Der Folientitel ------------------------------------------- */
@@ -143,7 +143,7 @@ style: |
     padding-top: 12px;
     border-top: 1px solid var(--blau);
     text-align: center;
-    font-size: 0.6em;
+    font-size: 20px;
   }
 ---
 <div class="titel">
