@@ -144,9 +144,6 @@ Ein Fingerabdruck allein ist noch keine Zwei-Faktor-Authentifizierung.
 ### Folie 8 – Mein Fazit
  Ich habe mich dafür entschieden, den Samsung Pass genauer zu untersuchen, weil ich von den drei genannten Passwortmanagern diesen am häufigsten verwende, weil ich mein Smartphone öfters nutze als meinen PC. 
 
-
-
-
  Außerdem ist er direkt in das System integriert und ist so einfach zu finden und zu benutzen.
 Samsung gibt mir die Möglichkeit, mich mit einem Passwort oder biometrischen Daten wie Iriserkennung oder Fingerabdruck anzumelden. 
 
