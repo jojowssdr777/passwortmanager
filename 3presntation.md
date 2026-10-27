@@ -204,9 +204,9 @@ Ein sicheres Passwort schützt meine Daten vor Angriffen von Hackern oder andere
 
 1. **Wo finde ich den Passwortmanager?**
 - Mir ist wichtig zu erfahren, ob es mir leicht gemacht wird, meine wichtigen Daten gut zu schützen. Wenn das schon zu kompliziert ist, möchte ich lieber einen einfacheren Manager haben.
-1.  **Welchen Funktionsumfang hat der Passwortmanager?**
+2.  **Welchen Funktionsumfang hat der Passwortmanager?**
 - Ich frage mich, wie gut meine Daten geschützt werden und welche Möglichkeiten mir für den Zugriff geboten werden.
-1. **Wie viel kostet der Passwortmanager?**
+3. **Wie viel kostet der Passwortmanager?**
 - Ist der Schutz meiner Passwörter kostenlos, oder verlangen die Anbieter für diesen Schutz Geld? Und wenn ja, wie viel?
 
 </div>
